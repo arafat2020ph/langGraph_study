@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-deepseek
+langgraph
+pydantic
+python-dotenv
+duckduckgo-search
+requests
+langchain-groq
